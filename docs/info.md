@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Este es un proyecto de prueba que estamos socialixzando en el salon A2405.
 
 ## How to test
 
-Explain how to use your project
+Conectamos varias entradas y salidas a los diferentes elemntos de la aplicacion final.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+este circuito integrado usa un chip basado en un cristal, servomotores, leds, entre otros componentes relevate.
